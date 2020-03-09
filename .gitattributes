@@ -1,2 +1,1 @@
 *.unityweb binary
-*.unityweb filter=lfs diff=lfs merge=lfs -text
